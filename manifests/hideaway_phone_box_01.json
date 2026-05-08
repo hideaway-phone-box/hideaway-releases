@@ -1,7 +1,12 @@
 {
   "project": "hideaway_phone_box_01",
-  "target": "v0.2.3",
+  "target": "v0.2.4",
   "versions": [
+    {
+      "version": "v0.2.4",
+      "url": "https://github.com/hideaway-phone-box/hideaway-releases/releases/download/hideaway_phone_box_01-v0.2.4/hideaway_phone_box_01.bin",
+      "size": 1597744
+    },
     {
       "version": "v0.2.3",
       "url": "https://github.com/hideaway-phone-box/hideaway-releases/releases/download/hideaway_phone_box_01-v0.2.3/hideaway_phone_box_01.bin",
